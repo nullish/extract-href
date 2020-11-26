@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nullish/extract-href/issues"
   },
-  "homepage": "https://github.com/nullish/extract-href#readme"
+  "homepage": "https://github.com/nullish/extract-href#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
 }
