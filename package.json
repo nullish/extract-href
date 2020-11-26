@@ -1,0 +1,23 @@
+{
+  "name": "extract-href",
+  "version": "1.0.0",
+  "description": "Extracts all href elements from a two column list of unique ID and HTML snippet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullish/extract-href.git"
+  },
+  "keywords": [
+    "href",
+    "link"
+  ],
+  "author": "Nullish",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nullish/extract-href/issues"
+  },
+  "homepage": "https://github.com/nullish/extract-href#readme"
+}
